@@ -1,3 +1,5 @@
 pytest
 bandit
 safety
+flake8
+license-checker
